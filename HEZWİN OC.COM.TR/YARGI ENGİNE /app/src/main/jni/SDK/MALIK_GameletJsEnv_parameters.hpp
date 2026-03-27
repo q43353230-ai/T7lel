@@ -1,0 +1,20 @@
+#pragma once
+
+// PUBG MOBILE (3.8.0) TELEGRAM MALIK:-@K_Y_2  
+// GENERATE ON Wed May  7 14:35:35 2025
+ 
+#include "../SDK.hpp"
+
+namespace SDK
+{
+//---------------------------------------------------------------------------
+//Parameters
+//---------------------------------------------------------------------------
+
+// Function GameletJsEnv.GameletDynamicDelegateProxy.Fire
+struct UGameletDynamicDelegateProxy_Fire_Params
+{
+};
+
+}
+
