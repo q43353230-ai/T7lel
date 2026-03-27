@@ -1,0 +1,6 @@
+# view res/layout/activity_main.xml #generated:2
+-keep class androidx.constraintlayout.widget.ConstraintLayout { <init>(...); }
+
+# view AndroidManifest.xml #generated:29
+-keep class com.MIRIOWNER.IMGUI.MainActivity { <init>(...); }
+
